@@ -1,0 +1,11 @@
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\bin\Debug\LinqLibrary.dll
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\bin\Debug\LinqLibrary.pdb
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\ConsoleUI\obj\Debug\ConsoleUI.pdb

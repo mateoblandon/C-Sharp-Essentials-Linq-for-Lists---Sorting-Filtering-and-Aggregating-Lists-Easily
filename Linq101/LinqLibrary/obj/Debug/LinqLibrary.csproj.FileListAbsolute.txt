@@ -1,0 +1,6 @@
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\bin\Debug\LinqLibrary.dll
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\bin\Debug\LinqLibrary.pdb
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\obj\Debug\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\obj\Debug\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\obj\Debug\LinqLibrary.dll
+C:\Users\blandonm\Documents\Cursos\TimCorey\C-Sharp-Essentials-Linq-for-Lists---Sorting-Filtering-and-Aggregating-Lists-Easily\Linq101\LinqLibrary\obj\Debug\LinqLibrary.pdb
